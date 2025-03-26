@@ -1,0 +1,1 @@
+# Bilingual-CLIP-Distillation-Scaling-Down-Models-with-Contrastive-Learning
